@@ -1,0 +1,1 @@
+python keypoints_augmentations.py --input_video=/C:\Users\motom\Desktop\Python\keypoint_augumentation\punch_video\train\Cross\2.mpg4 --csv_save_path=/C:\Users\motom\Desktop\Python\test.csv --seq_len=1
